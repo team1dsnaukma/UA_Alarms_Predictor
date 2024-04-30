@@ -5,7 +5,7 @@ Our goal was to create a service that would be able to predict air alarms in the
 ## Description of project
 Based on the data that was provided by our Lecturer: air alarms history and weather history for all Ukrainian regions along with ISW reports and telegram messages that were scraped by our team we treained model and deployed it to AWS server.
 
-**Server endpoint** - [http://54.172.227.220:8000](http://54.172.227.220:8000)
+#**Server endpoint** - [http://54.172.227.220:8000](http://54.172.227.220:8000)
 
 ## Explaining project files 
 1. isw_data.py - code for scaping and preprocessing data from isw reports
