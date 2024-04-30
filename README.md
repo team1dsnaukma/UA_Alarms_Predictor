@@ -16,7 +16,6 @@ You need to send request to our server's endpoints (we reccomend using postman f
   http://13.53.113.166:8000/get_alarm with body
   {
     "location": "Київ"
-
 }
 - In order to update prediction:
   http://13.53.113.166:8000/update_prediction
