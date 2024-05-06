@@ -25,7 +25,7 @@ You need to send request to our server's endpoints (we reccomend using postman f
     "location": "all"
 } 
 Example of output:
-[Imgur](https://imgur.com/1jWtFhT.jpg)
+![Imgur](https://imgur.com/1jWtFhT.jpg)
 - In order to get recent alarm predict for specific region:
   http://13.53.113.166:8000/get_alarm with body
   {
