@@ -7,7 +7,9 @@ Based on the data that was provided by our Lecturer: air alarms history and weat
 ## How to use our service
 You have two options to use our service:
 1. Website
-Website address - http://13.53.113.166:8000/
+Address - http://13.53.113.166:8000/
+In order to retrieve most recent alarms data press button Get Alarm
+![Example of retrieving alarms](https://imgur.com/a/qONcX67)
    
    
 You need to send request to our server's endpoints (we reccomend using postman for this)
