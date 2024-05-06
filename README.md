@@ -24,6 +24,7 @@ You need to send request to our server's endpoints (we reccomend using postman f
   {
     "location": "all"
 } 
+
 Example of output:
 ![Imgur](https://imgur.com/1jWtFhT.jpg)
 - In order to get recent alarm predict for specific region:
