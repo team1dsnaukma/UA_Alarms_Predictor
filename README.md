@@ -32,6 +32,9 @@ Example of output:
   {
     "location": "Київ"
 }
+
+Example of output:
+![Imgur](https://imgur.com/qcATTW2.jpg)
 - In order to update prediction:
   http://13.53.113.166:8000/update_prediction
  If prediction was updated you will get following message : ""Prediction was successfully made!"" as answer to your request.
