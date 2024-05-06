@@ -15,7 +15,7 @@ Address - http://13.53.113.166:8000/
 
  - In order to update prediction press the button Update Prediction.
 
-![Imgur][Imgur](https://imgur.com/nI6hZnh.jpg)
+![Imgur](https://imgur.com/nI6hZnh.jpg)
    
    
 You need to send request to our server's endpoints (we reccomend using postman for this)
