@@ -17,7 +17,7 @@ Address - http://13.53.113.166:8000/
 
 ![Imgur](https://imgur.com/nI6hZnh.jpg)
    
-2. Send request to our emdpoints 
+2. Send request to our endpoints 
 You need to send request to our server's endpoints (we reccomend using postman for this)
 - In order to get recent alarm predict for all regions:
   http://13.53.113.166:8000/get_alarm with body
@@ -27,6 +27,7 @@ You need to send request to our server's endpoints (we reccomend using postman f
 
 Example of output:
 ![Imgur](https://imgur.com/1jWtFhT.jpg)
+
 - In order to get recent alarm predict for specific region:
   http://13.53.113.166:8000/get_alarm with body
   {
@@ -35,8 +36,12 @@ Example of output:
 
 Example of output:
 ![Imgur](https://imgur.com/qcATTW2.jpg)
+
 - In order to update prediction:
   http://13.53.113.166:8000/update_prediction
  If prediction was updated you will get following message : ""Prediction was successfully made!"" as answer to your request.
+
+![Imgur](https://imgur.com/T6IeiH2.jpg)
+
 
 ## Explaining project files 
