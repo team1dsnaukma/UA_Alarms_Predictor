@@ -9,13 +9,13 @@ You have two options to use our service:
 1. Website
 Address - http://13.53.113.166:8000/
 
-In order to retrieve most recent alarms data press button Get Alarm
+ - In order to retrieve most recent alarms data press button Get Alarm.
 
 ![Imgur](https://imgur.com/eq6Mf6n.jpg)
 
-In order to update prediction press button 
+ - In order to update prediction press the button Update Prediction.
 
-![Imgur](https://imgur.com/a/lxPUGuu.jpg)
+![Imgur][Imgur](https://imgur.com/nI6hZnh.jpg)
    
    
 You need to send request to our server's endpoints (we reccomend using postman for this)
