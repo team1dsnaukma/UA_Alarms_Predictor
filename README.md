@@ -17,13 +17,15 @@ Address - http://13.53.113.166:8000/
 
 ![Imgur](https://imgur.com/nI6hZnh.jpg)
    
-   
+2. Send request to our emdpoints 
 You need to send request to our server's endpoints (we reccomend using postman for this)
 - In order to get recent alarm predict for all regions:
   http://13.53.113.166:8000/get_alarm with body
   {
     "location": "all"
-}
+} 
+Example of output:
+[Imgur](https://imgur.com/1jWtFhT.jpg)
 - In order to get recent alarm predict for specific region:
   http://13.53.113.166:8000/get_alarm with body
   {
