@@ -43,5 +43,3 @@ Example of output:
 
 ![Imgur](https://imgur.com/T6IeiH2.jpg)
 
-
-## Explaining project files 
